@@ -16,7 +16,7 @@
 #include "led_sysdefs_arm_stm32.h"
 #else
 // AVR platforms
-#include "platforms/avr/led_sysdefs_avr.h"
+//#include "platforms/avr/led_sysdefs_avr.h"
 #endif
 
 #ifndef FASTLED_NAMESPACE_BEGIN
